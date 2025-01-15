@@ -3,7 +3,7 @@
 I’m **Abdul Manan**, a first-year Software Engineering student, passionate about technology, coding, and building impactful projects. 🌟
 
 ---
-
+ 
 ## 👀 I’m interested in ...
 - Web development (HTML, CSS, and soon JavaScript!)
 - Building interactive and visually appealing websites.
